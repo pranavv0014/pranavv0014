@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/34801083/README.2.md)
+
 <div align="center">
 <img width="1200" height="320" alt="banner" src="https://github.com/user-attachments/assets/6f0405ea-4c17-453c-9c9b-3f8aa2698791" />
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="1200" height="320" shape-rendering="crispEdges" role="img" aria-label="Pixel-art animated banner: a hacker at a multi-monitor desk with AI and security screens"><defs>
@@ -351,7 +351,7 @@
 <rect width="240" height="64" fill="url(#sl)"/>
 <rect width="240" height="64" fill="url(#vig)"/></svg>
 
-<img src="https://raw.githubusercontent.com/pranavv0014/pranavv0014/main/assets/banner.svg" alt="Pranavv S - Cybersecurity and AI" width="100%"/>
+
 
 # Hi 👋, I'm Pranavv
 
@@ -378,7 +378,9 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pranavv0014/pranavv0014/main/assets/h-cyberai.svg" alt="Cybersecurity + AI" width="100%"/>
+    
+## Cybersecurity + AI
+
 </div>
 
 AI is changing both sides of security. I'm learning both halves:
